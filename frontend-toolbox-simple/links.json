@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Core Stack",
+    "items": [
+      { "name": "React", "url": "https://react.dev/", "use": "React docs, components, hooks", "tags": ["collected", "core"] },
+      { "name": "Vite", "url": "https://vite.dev/", "use": "Fast frontend tooling and project setup", "tags": ["collected", "build"] },
+      { "name": "Learn Next.js", "url": "https://nextjs.org/learn", "use": "Official Next.js learning path", "tags": ["collected", "learn"] },
+      { "name": "Next.js Templates by Vercel", "url": "https://vercel.com/templates/next.js", "use": "Starter templates and project ideas", "tags": ["collected", "templates"] }
+    ]
+  },
+  {
+    "category": "Styling & UI",
+    "items": [
+      { "name": "Tailwind Play", "url": "https://play.tailwindcss.com/", "use": "Test Tailwind classes quickly", "tags": ["collected", "tailwind"] },
+      { "name": "Aceternity UI", "url": "https://ui.aceternity.com/", "use": "Premium-looking animated Tailwind components", "tags": ["collected", "ui"] },
+      { "name": "shadcn/ui", "url": "https://ui.shadcn.com/", "use": "Clean customizable components", "tags": ["added", "ui"] },
+      { "name": "Magic UI", "url": "https://magicui.design/", "use": "Animated React + Tailwind components", "tags": ["added", "ui", "motion"] },
+      { "name": "Uiverse", "url": "https://uiverse.io/", "use": "Open-source UI elements and CSS ideas", "tags": ["added", "css", "ui"] }
+    ]
+  },
+  {
+    "category": "Animation & 3D",
+    "items": [
+      { "name": "GSAP gsap.to() Docs", "url": "https://gsap.com/docs/v3/GSAP/gsap.to%28%29/", "use": "JS animation basics and timelines", "tags": ["collected", "animation"] },
+      { "name": "Motion", "url": "https://motion.dev/", "use": "React/JS animations, gestures, layout animation", "tags": ["added", "animation"] },
+      { "name": "Three.js", "url": "https://threejs.org/", "use": "3D scenes in the browser", "tags": ["added", "3d"] },
+      { "name": "Spline", "url": "https://spline.design/", "use": "Browser-based 3D design and embeds", "tags": ["added", "3d"] },
+      { "name": "Rive", "url": "https://www.rive.app/", "use": "Interactive vector animation", "tags": ["added", "animation"] }
+    ]
+  },
+  {
+    "category": "AI Builders",
+    "items": [
+      { "name": "v0 by Vercel", "url": "https://v0.app/", "use": "Generate React/Next UI fast", "tags": ["collected", "ai"] },
+      { "name": "Vibecode", "url": "https://www.vibecode.com/", "use": "AI mobile/web app builder", "tags": ["collected", "ai"] },
+      { "name": "Hostinger Horizons", "url": "https://www.hostinger.com/horizons", "use": "No-code AI website/app builder", "tags": ["collected", "ai"] },
+      { "name": "Bolt.new", "url": "https://bolt.new/", "use": "Browser AI app builder and prototypes", "tags": ["added", "ai"] },
+      { "name": "Lovable", "url": "https://lovable.dev/", "use": "AI full-stack app builder", "tags": ["added", "ai"] }
+    ]
+  },
+  {
+    "category": "Automation",
+    "items": [
+      { "name": "n8n", "url": "https://n8n.io/", "use": "Visual workflow automation", "tags": ["collected", "automation"] },
+      { "name": "n8n GitHub", "url": "https://github.com/n8n-io/n8n", "use": "Source code, issues, self-hosting reference", "tags": ["collected", "github"] }
+    ]
+  },
+  {
+    "category": "Practice",
+    "items": [
+      { "name": "Flexbox Froggy", "url": "https://flexboxfroggy.com/", "use": "Learn CSS flexbox with a game", "tags": ["collected", "css"] },
+      { "name": "CSSBattle", "url": "https://cssbattle.dev/", "use": "CSS challenges and visual practice", "tags": ["collected", "css"] }
+    ]
+  },
+  {
+    "category": "Docs & Learning",
+    "items": [
+      { "name": "MDN Web Docs", "url": "https://developer.mozilla.org/en-US/docs/Web", "use": "HTML, CSS, JS reference", "tags": ["added", "docs"] },
+      { "name": "web.dev", "url": "https://web.dev/", "use": "Performance, accessibility and modern web guides", "tags": ["added", "docs"] },
+      { "name": "Can I use", "url": "https://caniuse.com/", "use": "Browser support tables", "tags": ["added", "compatibility"] },
+      { "name": "JavaScript Data Structures & Algorithms", "url": "https://github.com/loiane/javascript-datastructures-algorithms", "use": "JS/TS algorithms practice", "tags": ["collected", "algorithms"] },
+      { "name": "Stack Overflow — frontend", "url": "https://stackoverflow.com/questions/tagged/frontend", "use": "Frontend debugging/questions", "tags": ["collected", "debug"] },
+      { "name": "Stack Overflow — Next.js", "url": "https://stackoverflow.com/questions/tagged/next.js", "use": "Next.js specific debugging", "tags": ["collected", "debug"] }
+    ]
+  },
+  {
+    "category": "Online Editors",
+    "items": [
+      { "name": "CodePen", "url": "https://codepen.io/", "use": "Quick HTML/CSS/JS experiments", "tags": ["added", "editor"] },
+      { "name": "StackBlitz", "url": "https://stackblitz.com/", "use": "Browser dev environments", "tags": ["added", "editor"] },
+      { "name": "CodeSandbox", "url": "https://codesandbox.io/", "use": "Cloud dev sandboxes", "tags": ["added", "editor"] }
+    ]
+  }
+]
