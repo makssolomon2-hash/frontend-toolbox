@@ -254,30 +254,6 @@
 
 ---
 
-## ➕ Add New Tool Template
-
-Copy this row into the correct section:
-
-```md
-| Tool Name | https://example.com/ | Type | What it helps with | `saved` | ⭐⭐⭐ |
-```
-
-Or use the detailed block:
-
-```md
-### Tool Name
-
-- **Link:** https://example.com/
-- **Type:** Website / App / Extension / Library / Generator / Docs
-- **Use case:** What problem does it solve?
-- **Status:** `saved` / `testing` / `using` / `learn` / `favorite`
-- **Rating:** ⭐⭐⭐⭐⭐
-- **Notes:**
-  - 
-```
-
----
-
 ## 🧱 Personal Frontend Stack
 
 ```txt
@@ -297,7 +273,7 @@ Deploy          : Vercel · Netlify · Cloudflare Pages
 
 <div align="center">
 
-### `BUILD → TEST → SAVE → IMPROVE`
+### `MAKS SOLOMON`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7c3aed,50:2563eb,100:050816" width="100%" alt="Footer wave" />
 
