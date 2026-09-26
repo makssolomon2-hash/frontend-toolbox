@@ -125,6 +125,7 @@
 | Storybook | https://storybook.js.org/ | UI workshop | Component documentation/testing | `learn` | ⭐⭐⭐⭐ |
 | Aceternity UI | https://ui.aceternity.com/ | Components | Modern animated sections | `saved` | ⭐⭐⭐⭐ |
 | Magic UI | https://magicui.design/ | Components | SaaS-style animated UI | `saved` | ⭐⭐⭐⭐ |
+| FlowBite | https://flowbite.com | Components | UI | `saved` | ⭐⭐⭐⭐ |
 
 ---
 
